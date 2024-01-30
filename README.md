@@ -12,3 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Study)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)
