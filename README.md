@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)
 
-<p style="align: center; font-size: '30px'; font-weight:bold">My statistics</p>
+<p style="align: center;">My statistics</p>
 
 <div align='center'>
   
