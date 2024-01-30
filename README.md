@@ -5,7 +5,7 @@
 
 <h3 align='center'>My statistics</h3>
 
-<div align='center'>
+<div align='center' display='flex'>
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Vladimir-Study)](https://github.com/Vladimir-Study)
 
