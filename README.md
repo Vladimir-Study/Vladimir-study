@@ -17,3 +17,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_frontend)](https://github.com/Vladimir-Study/netology_diplom_frontend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=severstal)](https://github.com/Vladimir-Study/severstal)
