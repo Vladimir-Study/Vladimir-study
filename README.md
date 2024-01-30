@@ -5,16 +5,13 @@
 
 <h3 align='center'>My statistics</h3>
 
-<div align='center' style="
-    display: flex;
-    justify-content: space-between;
-">
-  
+<div align='center' 
+    
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Vladimir-Study)](https://github.com/Vladimir-Study)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Study)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
+<h3 align='center'>My favorite work</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)
