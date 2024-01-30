@@ -10,4 +10,5 @@
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Vladimir-Study)](https://github.com/Vladimir-Study)
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
