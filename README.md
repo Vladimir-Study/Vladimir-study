@@ -5,7 +5,10 @@
 
 <h3 align='center'>My statistics</h3>
 
-<div align='center' display='flex'>
+<div align='center' style="
+    display: flex;
+    justify-content: space-between;
+">
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Vladimir-Study)](https://github.com/Vladimir-Study)
 
