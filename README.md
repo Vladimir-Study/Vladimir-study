@@ -20,6 +20,7 @@
 [React](https://github.com/Vladimir-Study/Documents/blob/main/React.pdf)\
 [Fullstack Python](https://github.com/Vladimir-Study/Documents/blob/main/Fullstack%20Python.pdf)\
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)\
+
 <h3 align='center'>My statistics</h3>
 
 <div align='center'> 
