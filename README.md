@@ -19,12 +19,12 @@
 [HTML and CSS Basic](https://github.com/Vladimir-Study/Documents/blob/main/HTML%20and%20CSS%20Basic.pdf)\
 [React](https://github.com/Vladimir-Study/Documents/blob/main/React.pdf)\
 [Fullstack Python](https://github.com/Vladimir-Study/Documents/blob/main/Fullstack%20Python.pdf)\
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)\
 
 <h3 align='center'>My statistics</h3>
 
-<div align='center'> 
-    
+<div align='center'>     
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Vladimir-Study)](https://github.com/Vladimir-Study)\
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Study)](https://github.com/anuraghazra/github-readme-stats)
 </div>
