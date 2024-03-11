@@ -33,7 +33,7 @@
 
 <h3 align='center'>My favorite work</h3>
 
-<div style="align:center">
+<div>
     
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)
     
