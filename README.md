@@ -2,7 +2,9 @@
 <h3 align="center">Fullstack Python Developer from Russia 🇷🇺</h3>
 
 <h4>My Diploma<h4>
+    
 [My Diplom Fullstack Pyhton Developer by Netology](https://github.com/Vladimir-Study/Documents/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Python-Developer.pdf)
+
 [Diploma supplement](https://github.com/Vladimir-Study/Documents/blob/main/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D1%83%20Python-Developer.pdf)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)
