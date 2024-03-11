@@ -8,45 +8,29 @@
 
 ****My Certificates****
 
-[Python Basic](https://github.com/Vladimir-Study/Documents/blob/main/Python%20Basic.pdf)
-
-[Python Professional](https://github.com/Vladimir-Study/Documents/blob/main/Python%20Professional.pdf)
-
-[Django functional apps](https://github.com/Vladimir-Study/Documents/blob/main/Django%20functional%20apps.pdf)
-
-[Data Base for Python](https://github.com/Vladimir-Study/Documents/blob/main/Data%20Base%20for%20Python.pdf)
-
-[Git](https://github.com/Vladimir-Study/Documents/blob/main/Git.pdf)
-
-[JS Basic](https://github.com/Vladimir-Study/Documents/blob/main/JS%20Basic.pdf)
-
-[JS in-dept](https://github.com/Vladimir-Study/Documents/blob/main/JS%20in-dept.pdf)
-
-[JS advanced](https://github.com/Vladimir-Study/Documents/blob/main/JS%20advanced.pdf)
-
-[HTML and CSS Basic](https://github.com/Vladimir-Study/Documents/blob/main/HTML%20and%20CSS%20Basic.pdf)
-
-[React](https://github.com/Vladimir-Study/Documents/blob/main/React.pdf)
-
-[Fullstack Python](https://github.com/Vladimir-Study/Documents/blob/main/Fullstack%20Python.pdf)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)
-
+[Python Basic](https://github.com/Vladimir-Study/Documents/blob/main/Python%20Basic.pdf)\
+[Python Professional](https://github.com/Vladimir-Study/Documents/blob/main/Python%20Professional.pdf)\
+[Django functional apps](https://github.com/Vladimir-Study/Documents/blob/main/Django%20functional%20apps.pdf)\
+[Data Base for Python](https://github.com/Vladimir-Study/Documents/blob/main/Data%20Base%20for%20Python.pdf)\
+[Git](https://github.com/Vladimir-Study/Documents/blob/main/Git.pdf)\
+[JS Basic](https://github.com/Vladimir-Study/Documents/blob/main/JS%20Basic.pdf)\
+[JS in-dept](https://github.com/Vladimir-Study/Documents/blob/main/JS%20in-dept.pdf)\
+[JS advanced](https://github.com/Vladimir-Study/Documents/blob/main/JS%20advanced.pdf)\
+[HTML and CSS Basic](https://github.com/Vladimir-Study/Documents/blob/main/HTML%20and%20CSS%20Basic.pdf)\
+[React](https://github.com/Vladimir-Study/Documents/blob/main/React.pdf)\
+[Fullstack Python](https://github.com/Vladimir-Study/Documents/blob/main/Fullstack%20Python.pdf)\
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)\
 <h3 align='center'>My statistics</h3>
 
-<div align='center' 
+<div align='center'> 
     
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Vladimir-Study)](https://github.com/Vladimir-Study)
-
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Vladimir-Study)](https://github.com/Vladimir-Study)\
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Study)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align='center'>My favorite work</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_frontend)](https://github.com/Vladimir-Study/netology_diplom_frontend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=severstal)](https://github.com/Vladimir-Study/severstal)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_frontend)](https://github.com/Vladimir-Study/netology_diplom_frontend)\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=severstal)](https://github.com/Vladimir-Study/severstal)\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=kanalservis_test_task)](https://github.com/Vladimir-Study/kanalservis_test_task)
