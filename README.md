@@ -33,9 +33,9 @@
 
 <h3 align='center'>My favorite work</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)\    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_frontend)](https://github.com/Vladimir-Study/netology_diplom_frontend)\    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=severstal)](https://github.com/Vladimir-Study/severstal)\    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_backend)](https://github.com/Vladimir-Study/netology_diplom_backend)    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=netology_diplom_frontend)](https://github.com/Vladimir-Study/netology_diplom_frontend)    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=severstal)](https://github.com/Vladimir-Study/severstal)    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir-Study&repo=kanalservis_test_task)](https://github.com/Vladimir-Study/kanalservis_test_task)
 
 
