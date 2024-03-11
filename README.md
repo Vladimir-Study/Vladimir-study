@@ -18,7 +18,7 @@
 [JS advanced](https://github.com/Vladimir-Study/Documents/blob/main/JS%20advanced.pdf)\
 [HTML and CSS Basic](https://github.com/Vladimir-Study/Documents/blob/main/HTML%20and%20CSS%20Basic.pdf)\
 [React](https://github.com/Vladimir-Study/Documents/blob/main/React.pdf)\
-[Fullstack Python](https://github.com/Vladimir-Study/Documents/blob/main/Fullstack%20Python.pdf)\
+[Fullstack Python](https://github.com/Vladimir-Study/Documents/blob/main/Fullstack%20Python.pdf)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)\
 
