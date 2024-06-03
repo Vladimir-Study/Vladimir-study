@@ -21,7 +21,8 @@
 [Fullstack Python](https://github.com/Vladimir-Study/Documents/blob/main/Fullstack%20Python.pdf)
 
 ****My recommendations****
-[Tiddle](https://github.com/Vladimir-Study/Documents/blob/main/Letter_of_recommendation_.pdf)\
+
+[Tiddle](https://github.com/Vladimir-Study/Documents/blob/main/Letter_of_recommendation_.pdf)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vladimir-Study&theme=onedark&row=1)](https://github.com/Vladimir-Study)\
 
